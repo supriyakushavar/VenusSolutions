@@ -1,1 +1,1 @@
-Venus Ind solutions
+Venus Industrial solutions, A static website
